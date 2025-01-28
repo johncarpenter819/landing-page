@@ -1,4 +1,7 @@
 # landing-page
 
-1. Established in HTML header, information, quote, and footer
-2. Finished styling first block with CSS
+1. Created header
+2. Created section-two
+3. Created section-three
+4. Created section-four
+5. Created footer
